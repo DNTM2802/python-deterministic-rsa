@@ -2,3 +2,5 @@ numpy
 Pillow
 matplotlib
 rsa
+sphinx
+sphinx_rtd_theme
