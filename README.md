@@ -28,6 +28,7 @@ These external libraries are used to:
 - Export the RSA generated keys to the PEM format (rsa).
 - Force Python int/long to be limited to 64bit (similar to Java long primitive type) (numpy).
 - Optimization of the computations (numpy).
+- Documentation (sphinx and sphinx_rtd_theme).
 
 The implemented functionality and logic is not dependent on these libraries.
     
