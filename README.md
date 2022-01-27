@@ -1,5 +1,5 @@
 
-# Deterministic RSA (DRSA)
+# Deterministic RSA (DRSA) with Python
 
 A DRSA module capable of generating deterministic keys and a PRBG (Pseudo-Random Byte Generator) done with Python.
 
